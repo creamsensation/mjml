@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/Boostport/mjml-go v0.14.5
-	github.com/creamsensation/gox v0.3.1
+	github.com/creamsensation/gox v0.3.2
 )
 
 require (
